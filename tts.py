@@ -32,3 +32,7 @@ class TTS:
         print("Finished audio generation")
 
         return filename
+    
+
+tts = TTS("chinese")
+tts.generate_audio("有一天，一隻蜗牛走进一家赌场。他走到柜台前，想跟柜台上的兔子下注。")

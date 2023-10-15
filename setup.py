@@ -1,6 +1,6 @@
 from record import Recorder
 from asr import ASR
-from tandamGPT import TandamGPT
+from tandemGPT import TandamGPT
 from tts import TTS
         
 class Setup:

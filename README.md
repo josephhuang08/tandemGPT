@@ -4,11 +4,19 @@ TandanGPT is a chatbot which allows you to engage in conversations by speaking i
 
 ## DEMO
 
-TODO
+Set the language you wish to practice
+![Screenshot 1](setting.jpg)
+Choose to view or hide sections
+![Screenshot 2](chat.jpg)
+Play the generated AI audio
+![Screenshot 3](audio.jpg)
+
+An demo of AI speech
+[Audio Demo](AI_speech.wav)
 
 ## Settings
 - Select the language which you would like to practice.
-- Set the silience duration (the amount of time not speaking to stop recording audio)
+- Set the silience duration (the amount of time of not speaking until it automatically stops recording)
 
 ## Technologies Used
 
@@ -32,6 +40,10 @@ TODO
    - The UI interface, created using Gradio, allows you to interact with the chatbot and receive the AI-generated responses.
 
 ## Getting Started
+
+TODO
+
+## Future Features and Improvments
 
 TODO
 
