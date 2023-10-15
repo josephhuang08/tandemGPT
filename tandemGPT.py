@@ -11,6 +11,7 @@ from constants import SYSTEM_PROMPT_TEMPLATE, SYSTEM_PROMPT_CORRECTIONS, SYSTEM_
 class TandamGPT:
     def __init__(self):
         # Add your open ai API key
+        self.llm = ChatOpenAI(openai_api_key="", model="gpt-3.5-turbo", verbose=True)
         self.llm = ChatOpenAI(openai_api_key="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", model="gpt-3.5-turbo", verbose=True)
     
     def set_language(self, language: str):
