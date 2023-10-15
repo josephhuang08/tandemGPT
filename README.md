@@ -12,7 +12,9 @@ Play the generated AI audio
 ![Screenshot 3](assets/audio.jpg)
 
 An demo of what the AI speech sound like 
-[Audio Demo](assets/AI_speech.mp4)
+https://github.com/josephhuang08/tandemGPT/assets/64144020/644c9341-7078-4158-b101-730c256935d8
+
+
 
 ## Settings
 - Select the language which you would like to practice.
