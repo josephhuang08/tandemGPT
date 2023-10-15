@@ -5,14 +5,14 @@ TandanGPT is a chatbot which allows you to engage in conversations by speaking i
 ## DEMO
 
 Set the language you wish to practice
-![Screenshot 1](setting.jpg)
+![Screenshot 1](assets/setting.jpg)
 Choose to view or hide sections
-![Screenshot 2](chat.jpg)
+![Screenshot 2](assets/chat.jpg)
 Play the generated AI audio
-![Screenshot 3](audio.jpg)
+![Screenshot 3](assets/audio.jpg)
 
-An demo of AI speech
-[Audio Demo](AI_speech.wav)
+An demo of what the AI speech sound like
+[Audio Demo](assets/AI_speech.mp4)
 
 ## Settings
 - Select the language which you would like to practice.
