@@ -11,7 +11,7 @@ Choose to view or hide sections
 Play the generated AI audio
 ![Screenshot 3](assets/audio.jpg)
 
-An demo of what the AI speech sound like
+An demo of what the AI speech sound like 
 [Audio Demo](assets/AI_speech.mp4)
 
 ## Settings
@@ -44,8 +44,9 @@ An demo of what the AI speech sound like
 TODO
 
 ## Future Features and Improvments
-
-TODO
+- Enable TandemGPT to take a file containing Vocabularies which the bot will use to generate responses based on the user's prompt.
+- Use Real-time ASR to improve runtime.
+- Have the option to enable or disable certain functions of TandemGPT (to improve runtime).
 
 ## Contributing
 
